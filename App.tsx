@@ -1,3 +1,6 @@
+// Hi this is a react app
+
+
 import React from 'react';
 import type {PropsWithChildren} from 'react';
 import {
